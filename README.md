@@ -151,7 +151,7 @@ I am a passionate **Data Analyst** with expertise in:
 
 ## 🔗 Connect With Me
 
-
----
+1-https://github.com/Kashif95435
+2-https://www.linkedin.com/in/kashif-data-science/
 
 ⭐ **If you find this project helpful, please give it a Star!** ⭐
